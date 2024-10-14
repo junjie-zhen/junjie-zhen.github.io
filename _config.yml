@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "sandesh.jpg"
   name             : "Dr. Junjie Zhen"
   pronouns         : # example: "her"  
   bio              : "Research interests: Energy and environmental economics, Policy analysis and sustainable development."

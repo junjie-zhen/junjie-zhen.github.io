@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Business Administration program"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Xinjiang University, Faculty of Economics and Management"
 date: 2014-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Master's degree experience"
 collection: teaching
-type: "Workshop"
+type: "Technical Economics and Management Program"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Northwestern University, School of Economics and Management"
 date: 2015-01-01

@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "[2024-10-04] National Day, Qinling Zhongnan Mountain hike."
+excerpt: "[2024-10-04] 国庆节，秦岭终南山徒步。<br/><img src='/images/1.png'>"
+collection: Life and Sport
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The full hike is 20KM and takes a full day.

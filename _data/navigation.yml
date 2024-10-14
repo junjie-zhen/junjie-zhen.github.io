@@ -8,9 +8,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Academic cooperation"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
@@ -20,4 +17,6 @@ main:
   - title: "Life Moments"
     url: /year-archive/
     
+  - title: "Academic cooperation"
+    url: /talks/    
 

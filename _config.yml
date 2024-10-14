@@ -26,10 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research interests: Energy and environmental economics, Policy analysis and sustainable development."
   location         : "Xi'an, Shaanxi Province, China"
-  employer         : "Xi'an Jiaotong University \
-(Science and Technology Innovation Port in Western China)"
+  employer         : "Xi'an Jiaotong University (Science and Technology Innovation Port in Western China)"
   uri              : # URL
-  email            : "zhenjunjie@stu.xjtu.edu.cn" 
+  email: zhenjunjie@stu.xjtu.edu.cn            : "zhenjunjie@stu.xjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

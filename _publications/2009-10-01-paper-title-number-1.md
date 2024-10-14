@@ -6,8 +6,8 @@ permalink: /publication/2021-01-10-paper-title-number-1
 excerpt: 'Business model innovation; Entropy weight method; Catastrophe progression method; Innovation evaluation'
 date: 2021-01-10
 venue: 'Science and Technology Management Research 41(in Chinese)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: 'http://academicpages.github.io/files/work1.pdf'
+paperurl: 'http://academicpages.github.io/files/work1.pdf'
 citation: 'J. Zhen, H. Sun. (2021). &quot;Evaluation of Business Model Innovation Based on Catastrophe Progression and Entropy Method:Taking JF Enterprise as the Example.&quot; <i>Science and Technology Management Research (in Chinese)</i>. 41(1).'
 ---
 

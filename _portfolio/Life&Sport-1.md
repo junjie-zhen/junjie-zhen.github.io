@@ -4,4 +4,4 @@ excerpt: "[2024-10-04] 国庆节，秦岭终南山徒步。<br/><img src='/image
 collection: Life and Sport
 ---
 
-The full hike is 20KM and takes a full day.<br/><img src='/images/1.jpg'>"<br/><img src='/images/2.jpg'>"<br/><img src='/images/3.jpg'>"
+The full hike is 20KM and takes a full day.<br/><img src='/images/1.jpg'><br/><img src='/images/2.jpg'><br/><img src='/images/3.jpg'>

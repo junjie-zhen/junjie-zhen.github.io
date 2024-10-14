@@ -7,8 +7,8 @@ excerpt: 'Water resources carrying capacily; Reslience of water resources manage
 cast;Shaanxi Province'
 date: 2022-12-10
 venue: 'Yellow River (in Chinese)'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+slidesurl: 'http://junjie-zhen.github.io/files/slides3.pdf'
+paperurl: 'http://junjie-zhen.github.io/files/paper3.pdf'
 citation: 'B. Zhang, B. Wang, J. Zhen, et al. (2022). &quot;Evaluation and Dynamic Evolution Prediction of Comprehensive Utilization Level of Water Resources in Shaanxi Province.&quot; <i>Yellow River (in Chinese)</i>. 44(12).'
 ---
 

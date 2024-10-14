@@ -16,7 +16,8 @@ I earned a Bachelor's degree in Management from the School of Economics and Mana
 I obtained a Master's degree in Management from the School of Economics and Management, Northwestern University, China, specializing in the digital economy and high-quality economic development.
 
 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Contact with me
+======
+You can contact me in the following ways: 
+[Email](mailto:zhenjunjie@stu.xjtu.edu.cn) / 
+[WeChat](https://junjie-zhen.github.io/images/wechat.jpg)

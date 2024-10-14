@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Evaluation of Business Model Innovation Based on Catastrophe Progression and Entropy Method:Taking JF Enterprise as the Example"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1

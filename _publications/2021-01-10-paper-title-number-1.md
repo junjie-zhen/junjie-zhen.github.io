@@ -2,11 +2,11 @@
 title: "Evaluation of Business Model Innovation Based on Catastrophe Progression and Entropy Method:Taking JF Enterprise as the Example"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-01-10-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-01-10
 venue: 'Science and Technology Management Research 41(in Chinese)'
-slidesurl: 'http://junjie-zhen.github.io/files/paper1.pdf'
+slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper1.pdf'
 citation: 'J. Zhen, H. Sun. (2021). &quot;Evaluation of Business Model Innovation Based on Catastrophe Progression and Entropy Method:Taking JF Enterprise as the Example.&quot; <i>Science and Technology Management Research </i>. 41(1).'
 ---

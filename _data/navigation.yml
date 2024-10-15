@@ -12,10 +12,10 @@ main:
     url: /teaching/    
 
   - title: "Data & code"
-    url: /year-archive/
-    
-  - title: "Life Moments"
     url: /portfolio/
+
+  - title: "Life Moments"
+    url: /year-archive/
         
   - title: "Academic cooperation"
     url: /talks/    

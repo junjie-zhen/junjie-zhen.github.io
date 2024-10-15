@@ -2,9 +2,9 @@
 title: "Research on the Economic and Environmental Effects of Internet Development on Remolding the Spatial Agglomeration of Manufacturing Industry: Empirical Evidence from Micro-geographic Data of Manufacturing Industry"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-30-paper-title-number-7
+permalink: /publication/2024-10-01-paper-title-number-7
 excerpt: 'Internet Development; Manufacturing Spatial Agglomeration; Agglomeration Degradation; Total Factor Productivity; Environmental Pollution'
-date: 2024-10-30
+date: 2024-10-01
 venue: 'China Journal of Economics (in Chinese)'
 slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper7.pdf'

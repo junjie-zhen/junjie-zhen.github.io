@@ -18,6 +18,4 @@ I obtained a Master's degree in Management from the School of Economics and Mana
 
 Contact with me
 ======
-You can contact me in the following ways: 
-For international friends you can contact me by [Email](mailto:zhenjunjie@stu.xjtu.edu.cn):zhenjunjie@stu.xjtu.edu.cn.
-For Chinese friends you can contact me by adding a private [WeChat](https://junjie-zhen.github.io/images/wechat.jpg).
+You can contact me by [Email](mailto:zhenjunjie@stu.xjtu.edu.cn):zhenjunjie@stu.xjtu.edu.cn.

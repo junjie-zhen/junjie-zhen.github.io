@@ -6,7 +6,7 @@ permalink: /publication/2024-09-04-paper-title-number-5
 excerpt: 'Renewable energy development strategy; Wind power generation; Photovoltaic power generation; LMDI model; Factor substitution'
 date: 2024-09-04
 venue: 'Energy'
-slidesurl: 'http://junjie-zhen.github.io/files/slides5.pdf'
+slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper5.pdf'
 citation: 'Yubao Wang, <i><b>Junjie Zhen*</b></i>. (2024). &quot;Drivers and strategic options for renewable energy development in China: LMDI-elasticity analysis perspective based on photovoltaic and wind energy.&quot; <i>Energy</i>. 309.'
 ---

@@ -6,7 +6,7 @@ permalink: /publication/2022-09-15-paper-title-number-2
 excerpt: 'Digital Inclusive Finance; Common Prosperity; Efficiency and Equity; Capital Allocation'
 date: 2022-09-15
 venue: 'Collected Essays on Finance and Economics (in Chinese)'
-slidesurl: 'http://junjie-zhen.github.io/files/slides2.pdf'
+slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper2.pdf'
 citation: 'Xinyue Zhang*, Bo Shi, <i><b>Junjie Zhen</b></i>. (2022). &quot;A Study on Mechanism of Digital Inclusive Finance forCommon Prosperity in High-quality Development.&quot; <i>Collected Essays on Finance and Economics (in Chinese)</i>. (09).'
 ---

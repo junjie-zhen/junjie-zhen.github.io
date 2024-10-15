@@ -6,6 +6,7 @@ permalink: /publication/2023-02-22-paper-title-number-4
 excerpt: 'Digital innovation; Highquality economic development; Neykernel density estimation; Spatial Markov prediction; coupling coordination'
 date: 2023-02-22
 venue: 'Modern Finance and Economics-Journal (in Chinese)'
+slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper3.pdf'
 citation: '<i><b>Junjie Zhen*</b></i>, Bo Shi, Xinyue Zhang. (2023). &quot;Synergistic Effect and Dynamic Evolution Prediction of Digital Innovation and High-Quality Economic Development in China.&quot; <i>Modern Finance and Economics-Journal (in Chinese)</i>. 43(3).'
 ---

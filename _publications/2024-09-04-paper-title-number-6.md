@@ -6,7 +6,7 @@ permalink: /publication/2024-09-16-paper-title-number-6
 excerpt: 'Cross-regional Power Dispatch; Ultra-high Voltage; Total Factor Energy Efficiency; New Energy System'
 date: 2024-09-16
 venue: 'Sustainability'
-slidesurl: 'http://junjie-zhen.github.io/files/slides6.pdf'
+slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper6.pdf'
 citation: 'Yubao Wang, <i><b>Junjie Zhen*</b></i>, Huiyuan Pan. (2024). &quot;Ultra-high Voltage construction projects and total factor energy efficiency: Empirical evidence on cross-regional power dispatch in China.&quot; <i>Sustainability</i>. 16.'
 ---

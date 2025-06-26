@@ -3,9 +3,9 @@ title: "Exploring the substitution within clean energy: Evidence from China's to
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-22-paper-title-number-10
-excerpt: 'Energy technology; Energy allocation efficiency; Energy efficiency; Coupled coordination model; Driver analysis'
+excerpt: 'Clean Energy; PowerSector; Seasonal Autoregressive Integrated Moving Average (SARIMA); Substitution Effect'
 date: 2025-06-22
-venue: 'Environment, Development and Sustainability'
+venue: 'Cleaner Energy Systems'
 slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper11.pdf'
 citation: '<i><b>Junjie Zhen*</b></i>, Yubao Wang, Huiyuan Pan. (2025). &quot;The coupling coordination of energy technology and energy allocation efficiency in China: Based on efficiency decomposition modeling.&quot; <i>Environment, Development and Sustainability</i>.  https://doi.org/10.1007/s10668-025-06441-8'

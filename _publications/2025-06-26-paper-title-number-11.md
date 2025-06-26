@@ -2,8 +2,8 @@
 title: "Exploring the substitution within clean energy: Evidence from China's top 14 hydropower provinces"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-22-paper-title-number-10
-excerpt: 'Energy technology; Energy allocation efficiency; Energy efficiency; Coupled coordination model; Driver analysis'
+permalink: /publication/2025-06-26-paper-title-number-11
+excerpt: 'Clean Energy; PowerSector; Seasonal Autoregressive Integrated Moving Average (SARIMA); Substitution Effect'
 date: 2025-06-22
 venue: 'Environment, Development and Sustainability'
 slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'

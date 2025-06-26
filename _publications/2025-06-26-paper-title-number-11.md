@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-06-26-paper-title-number-11
 excerpt: 'Clean Energy; PowerSector; Seasonal Autoregressive Integrated Moving Average (SARIMA); Substitution Effect'
-date: 2024-09-30
+date: 2025-06-22
 venue: 'Cleaner Energy Systems'
 slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper11.pdf'

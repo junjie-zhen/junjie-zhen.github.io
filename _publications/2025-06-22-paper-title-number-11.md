@@ -8,7 +8,7 @@ date: 2025-06-22
 venue: 'Cleaner Energy Systems'
 slidesurl: 'http://junjie-zhen.github.io/files/slides1.pdf'
 paperurl: 'http://junjie-zhen.github.io/files/paper11.pdf'
-citation: '<i><b>Junjie Zhen*</b></i>, Yubao Wang, Huiyuan Pan. (2025). &quot;The coupling coordination of energy technology and energy allocation efficiency in China: Based on efficiency decomposition modeling.&quot; <i>Environment, Development and Sustainability</i>.  https://doi.org/10.1007/s10668-025-06441-8'
+citation: 'Yubao Wang, Huiyuan Pan*, <i><b>Junjie Zhen</b></i>, Boyang Xu. (2025). &quot;The coupling coordination of energy technology and energy allocation efficiency in China: Based on efficiency decomposition modeling.&quot; <i>Environment, Development and Sustainability</i>.  https://doi.org/10.1007/s10668-025-06441-8'
 excerpt: "<br/><img src='/images/p11.png'>"
 ---
 
